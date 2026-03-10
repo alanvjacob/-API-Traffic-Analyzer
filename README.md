@@ -57,8 +57,7 @@ Analyzing what mobile apps send over the network typically requires a complex se
 4. A persistent notification will appear indicating the VPN is active.
 5. You will see simulated network traffic populate the dashboard (as an architectural demonstration). Tap on any request to view detailed headers, body payloads, and security alerts.
 
-## 🖼️ Screenshots
-*(Add screenshots of your Jetpack Compose dark mode UI here)*
+
 
 ## 🔮 Future Enhancements
 - Integration of a lightweight C/C++ or existing Java TCP/IP parsing library to fully reconstruct complex TCP streams.
